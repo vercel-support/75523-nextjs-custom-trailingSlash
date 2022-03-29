@@ -9,7 +9,7 @@ const nextConfig = {
       },
       {
         source: '/journal',
-        destination: `https://75523-nextjs-with-trailing-slash.vercel-support.app/journal/`,
+        destination: `https://75523-nextjs-with-trailing-slash.vercel-support.app/journal`,
       },
       {
         source: '/journal/:path*',
